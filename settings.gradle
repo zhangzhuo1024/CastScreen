@@ -1,0 +1,3 @@
+rootProject.name = "CastScreen"
+include ':app'
+include ':playescreen'
